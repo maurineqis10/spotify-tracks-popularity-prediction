@@ -83,15 +83,15 @@ Koefisien Determinasi atau R² merupakan metrik yang digunakan untuk mengetahui 
 
 Sebaliknya, nilai R² yang rendah menunjukkan bahwa kemampuan model dalam menjelaskan variasi data masih kurang baik. Nilai R² juga dapat bernilai negatif apabila hasil model lebih buruk dibandingkan penggunaan nilai rata-rata sebagai prediksi.
 
-Rumus R²:
-$R^2 = 1 - \frac{\sum_{i=1}^{n}(y_i-\hat{y}_i)^2}{\sum_{i=1}^{n}(y_i-\bar{y})^2}$
+Rumus R-Squared:
+R^2 = 1 - ( Jumlah Kuadrat Residual / Jumlah Kuadrat Total )
 
 Keterangan:
-- $R^2$ = koefisien determinasi.
-- $y_i$ = nilai sebenarnya.
-- $\hat{y}_i$ = nilai hasil prediksi.
-- $\bar{y}$ = rata-rata nilai sebenarnya.
-- $n$ = jumlah data.
+- R^2 = koefisien determinasi.
+- y_i = nilai sebenarnya.
+- y_pred = nilai hasil prediksi.
+- y_bar = rata-rata nilai sebenarnya.
+- n = jumlah data.
 
 Sebagai contoh, apabila nilai R² sebesar 0,80, berarti model dapat menjelaskan sekitar 80% variasi data. Sementara itu, sisanya belum dapat dijelaskan oleh model. Penggunaan R² sebagai salah satu ukuran evaluasi juga diterapkan dalam penelitian Puspitasari et al. (2023).
 
