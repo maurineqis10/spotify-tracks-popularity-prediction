@@ -96,18 +96,18 @@ Keterangan:
 Sebagai contoh, apabila nilai R² sebesar 0,80, berarti model dapat menjelaskan sekitar 80% variasi data. Sementara itu, sisanya belum dapat dijelaskan oleh model. Penggunaan R² sebagai salah satu ukuran evaluasi juga diterapkan dalam penelitian Puspitasari et al. (2023).
 
 ## 2.5 Ringkasan Interpretasi
-* **MAE (Mean Absolute Error)**
-  * Yang diukur: rata-rata selisih antara nilai sebenarnya dan hasil prediksi.
-  * Model baik jika: nilai semakin kecil dan mendekati nol.
-  * Sumber: Wahyuzi et al. (2024).
-* **MSE (Mean Squared Error)**
-  * Yang diukur: rata-rata kesalahan prediksi yang dikuadratkan.
-  * Model baik jika: nilai semakin kecil dan mendekati nol.
-  * Sumber: Silalahi et al. (2023).
-* **R² (Koefisien Determinasi)**
-  * Yang diukur: kemampuan model dalam menjelaskan variasi data.
-  * Model baik jika: nilai semakin mendekati 1.
-  * Sumber: Putri et al. (2025).
+- **MAE (Mean Absolute Error)**
+  - Yang diukur: rata-rata selisih antara nilai sebenarnya dan hasil prediksi.
+  - Model baik jika: nilai semakin kecil dan mendekati nol.
+  - Sumber: Wahyuzi et al. (2024).
+- **MSE (Mean Squared Error)**
+  - Yang diukur: rata-rata kesalahan prediksi yang dikuadratkan.
+  - Model baik jika: nilai semakin kecil dan mendekati nol.
+  - Sumber: Silalahi et al. (2023).
+- **R² (Koefisien Determinasi)**
+  - Yang diukur: kemampuan model dalam menjelaskan variasi data.
+  - Model baik jika: nilai semakin mendekati 1.
+  - Sumber: Putri et al. (2025).
 
 ## Daftar Pustaka
 1. Silalahi, D. K., Rumapea, A. C. M., Priharti, W., & Aprillia, B. S. (2023). Forecasting Photovoltaic Output Power Based on Environmental Parameters Using Artificial Neural Network Methods. Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi), 7(6), 1276–1284. https://doi.org/10.29207/resti.v7i6.5214
